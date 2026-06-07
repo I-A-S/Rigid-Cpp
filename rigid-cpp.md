@@ -3,7 +3,7 @@
 > [!NOTE]
 > This manifesto is a practical TLDR for engineers; it aims to be concise and on-point.
 >
-> For the theory and deep rationale, read the Rigid C++ academic paper (to be published on June 5th 2026).
+> For the theory and deep rationale, read the Rigid C++ academic paper (to be published on June 16th 2026).
 
 **Rigid C++** is not a new language. It is a disciplined **architectural subset of C++23** that aggressively adopts C++23's compile-time toolkit while enforcing **runtime rigidity and predictability**.
 
